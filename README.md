@@ -5,11 +5,11 @@
 
 ## BUSINESS PROBLEM
 <p align="justify">
-  Telecommunication companies are increasing because the use of the internet in communication is increasing, which can result in competition between providers. Customers have the right to choose the appropriate provider and can switch from the previous provider which is defined as customer churn. 
+  Telecommunication companies are increasing because internet use in communication is expanding, which can result in competition between providers. Customers can choose the appropriate provider and switch from the previous provider, defined as customer churn. 
 </p>
 
 <p align="justify">
-  Switching providers by customers can result in reduced revenue for telecommunications companies. By using existing datasets, it is expected to produce customer churn predictions so that companies can create business strategies so that customers survive.
+  Switching providers by customers can result in reduced revenue for telecommunications companies. Using existing datasets is expected to produce customer churn predictions so companies can create business strategies for customers to survive.
 </p>
 
 ## OBJECTIVES
