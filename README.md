@@ -1,6 +1,6 @@
 # CUSTOMER CHURN ANALYSIS
 <p align="justify">
-  This project uses Python programming language/Google Colab to process data. I completed this project while participating in Fresh Graduate Academy at <a href="https://www.linkedin.com/in/indahsh/details/education/968984033/multiple-media-viewer/?profileId=ACoAADQ0K_IBB-BflJ1wnBkU3Z47qF6xVW9xyvI&treasuryMediaId=1714306461924">Digital Talent Scholarship</a>.
+  This project uses Python with Google Colab to create a model of machine learning to predict customer churn. I completed this project while participating in Fresh Graduate Academy at <a href="https://www.linkedin.com/in/indahsh/details/education/968984033/multiple-media-viewer/?profileId=ACoAADQ0K_IBB-BflJ1wnBkU3Z47qF6xVW9xyvI&treasuryMediaId=1714306461924">Digital Talent Scholarship</a>.
 </p>
 
 ## BUSINESS PROBLEM
