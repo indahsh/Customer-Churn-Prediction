@@ -47,7 +47,7 @@ The objectives to be achieved in this project are as follows the following.
 | 19 | number_customer_service_calls | Number of calls to customer service | Numerical |
 | 20 | churn | Customers make service changes (yes/no) | Boolean |
 
-## RESULTS AND DISCUSSION
+## RESULTS
 ### Exploratory Data Analysis
 #### 1. Descriptive Statistics
 #### 2. Heatmap
@@ -78,8 +78,6 @@ The objectives to be achieved in this project are as follows the following.
 ### Learning Curve
 #### 1. Support Vector Machine
 #### 2. Random Forest
-
-### Conclusion
 
 ## CONCLUSION
 
