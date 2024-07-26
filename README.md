@@ -20,9 +20,8 @@ The objectives to be achieved in this project are as follows the following.
 3. <p align="justify">Implement an effective customer retention strategy based on data analysis and churn rate prediction results.</p>
 
 ## DATA UNDERSTANDING
-<p align="justify">
-  The data used is about customer churn, spanning from April 15, 2020, to June 8, 2020, and was obtained from <a href="https://www.kaggle.com/c/customer-churn-prediction-2020/overview">Kaggle</a>.
-</p>
+- <p align="justify">The data used is about customer churn, spanning from April 15, 2020, to June 8, 2020, and was obtained from <a href="https://www.kaggle.com/c/customer-churn-prediction-2020/overview">Kaggle</a>.</p>
+- <p align="justify">The data consists of 4,250 rows and 20 columns containing cellular variables.</p>
 
 | No. | Column | Description | Data Type |
 | --- | --- | --- | --- |
@@ -47,38 +46,7 @@ The objectives to be achieved in this project are as follows the following.
 | 19 | number_customer_service_calls | Number of calls to customer service | Numerical |
 | 20 | churn | Customers make service changes (yes/no) | Boolean |
 
-## RESULTS
-### Exploratory Data Analysis
-#### 1. Descriptive Statistics
-#### 2. Heatmap
-#### 3. Pie Chart
-#### 4. Bar Chart
-#### 5. Boxplot
-#### 6. Histogram
-
-### Data Pre-processing
-#### 1. Missing Value
-#### 2. Duplicate Value
-#### 3. Outlier Detection
-#### 4. Normalization
-#### 5. Feature Encoding
-#### 6. Drop Column
-#### 7. Split Data
-#### 8. Balancing Data
-#### 9. Feature Selection
-
-### Modeling
-#### 1. Support Vector Machine
-#### 2. Random Forest
-
-### Evaluation
-
-### Confusion Matrix
-
-### Learning Curve
-#### 1. Support Vector Machine
-#### 2. Random Forest
-
 ## CONCLUSION
+
 
 ## RECOMMENDATION
