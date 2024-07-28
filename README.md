@@ -3,8 +3,8 @@
   This project uses Python with Google Colab to create a model of machine learning to predict customer churn. I completed this project while participating in Fresh Graduate Academy at <a href="https://www.linkedin.com/in/indahsh/details/education/968984033/multiple-media-viewer/?profileId=ACoAADQ0K_IBB-BflJ1wnBkU3Z47qF6xVW9xyvI&treasuryMediaId=1714306461924">Digital Talent Scholarship</a>.
 </p>
 
-## BUSINESS UNDERSTANDING
-### Description
+## 1. BUSINESS UNDERSTANDING
+### 1.1. Description
 <p align="justify">
   Telecommunication companies are increasing because internet use in communication is expanding, which can result in competition between providers. Customers can choose the appropriate provider and switch from the previous provider, defined as customer churn. 
 </p>
@@ -13,13 +13,13 @@
   Switching providers by customers can result in reduced revenue for telecommunications companies. Using existing datasets is expected to produce customer churn predictions so companies can create business strategies for customers to survive.
 </p>
 
-### Objectives
+### 1.2. Objectives
 The objectives to be achieved in this project are as follows the following.
 1. <p align="justify">Identify insights through exploratory data analysis.</p>
 2. <p align="justify">Obtain the best performance by comparing different models.</p>
 3. <p align="justify">Implement an effective customer retention strategy based on data analysis and churn rate prediction results.</p>
 
-## DATA UNDERSTANDING
+## 2. DATA UNDERSTANDING
 - <p align="justify">The data used is about customer churn, spanning from April 15, 2020, to June 8, 2020, and was obtained from <a href="https://www.kaggle.com/c/customer-churn-prediction-2020/overview">Kaggle</a>.</p>
 - <p align="justify">The data consists of 4,250 rows and 20 columns containing cellular variables.</p>
 
@@ -46,7 +46,7 @@ The objectives to be achieved in this project are as follows the following.
 | 19 | number_customer_service_calls | Number of calls to customer service | Numerical |
 | 20 | churn | Customers make service changes (yes/no) | Boolean |
 
-## CONCLUSION
+## 3. CONCLUSION
 
 
-## RECOMMENDATION
+## 4. RECOMMENDATION
