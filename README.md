@@ -47,6 +47,24 @@ The objectives to be achieved in this project are as follows the following.
 | 20 | churn | Customers make service changes (yes/no) | Boolean |
 
 ## 3. CONCLUSION
+<p align="justify">
+  The conclusions that can be drawn based on the above analysis are as follows.
+</p>
 
+- <p align="justify">Only 14% (98 customers) of the total customers have churned, indicating a relatively low churn rate.</p>
+- <p align="justify">Customers with area code 415 have the highest churn rate, suggesting a regional pattern in customer retention issues.</p>
+- <p align="justify">Most customers who churned don't have an international plan, indicating that this service isn't a significant factor in retention.</p>
+- <p align="justify">Most customers who churned don't have a voice mail plan, indicating that this service isn't a significant factor in retention.</p>
+- <p align="justify">There is a positive correlation between the total minutes of day calls and churn, implying that customers with higher usage may have different needs or face issues not addressed by the current service.</p>
+- <p align="justify">Total minutes of day calls affect customer churn; the higher the total day minutes, the higher the customer churn.</p>
+- <p align="justify">The Random Forest model outperforms the Support Vector Machine (SVM) model in predicting customer churn, making it a more reliable tool for this analysis.</p>
+- <p align="justify">Based on model predictions, 8% (49 customers) are at risk of churning, highlighting a critical group for targeted retention efforts.</p>
 
 ## 4. RECOMMENDATION
+<p align="justify">
+  Based on the conclusion, recommendations for the company can be given as follows.
+</p>
+
+- <p align="justify">Since customers without international and voice mail plans show higher churn rates, investigate whether these plans are adequately marketed or if there are barriers to uptake. Consider offering trials, discounts, or bundling these services with other popular plans.</p>
+- <p align="justify">The positive correlation between high total day call minutes and churn suggests that heavy users might have unmet needs or experience service quality issues. Engage with these customers to gather feedback and explore whether specific problems, such as call quality or cost concerns, need addressing.</p>
+- <p align="justify">With higher churn rates observed among customers with account lengths of 101-150 months, developing engagement strategies for this group is crucial. Implement loyalty programs, offer personalized rewards, or conduct check-ins to strengthen their relationship with the company during this critical period.</p>
